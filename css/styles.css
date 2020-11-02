@@ -1,0 +1,20 @@
+body {
+  background-color: #EAF6F6;
+  margin:0;
+}
+
+hr {
+  border-color: #333;
+  border-style: none none dotted none;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1,p {
+  color: #63BFBF;
+}
+
+section {
+  background-color: #4830e6;
+  display: block;
+}
